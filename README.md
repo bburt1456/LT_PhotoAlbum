@@ -11,6 +11,7 @@ as it should, however I am unsure on how to address the error in the unit test f
 working properly.
 
 How to run:
+
 1.) Clone repository, and open the solution/project in Visual Studio.
 
 2.) Program.cs and Post.cs is the console application code, and there is a separate project referenced with the attempted unit test
