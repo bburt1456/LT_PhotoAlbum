@@ -12,9 +12,9 @@ working properly.
 
 How to run:
 
-1.) Clone repository, and open the solution/project in Visual Studio.
+1.) Clone repository or download the zip folder containing the code, and open the LT_photoAlbum.sln file/project in Visual Studio.
 
 2.) Program.cs and Post.cs is the console application code, and there is a separate project referenced with the attempted unit test
 
-3.) To run the project, hit the play button in the upper left corner of Visual Studio.
+3.) To run the project, hit the play button in the upper left corner of Visual Studio. The output will be displayed in the terminal/console.
 
